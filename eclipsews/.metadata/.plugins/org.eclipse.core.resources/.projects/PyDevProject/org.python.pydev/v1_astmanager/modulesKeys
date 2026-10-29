@@ -1,0 +1,18 @@
+MODULES_MANAGER_V3
+api.__init__|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\__init__.py
+api.admin|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\admin.py
+api.apps|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\apps.py
+api.migrations.0001_initial|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\migrations\0001_initial.py
+api.migrations.__init__|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\migrations\__init__.py
+api.models|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\models.py
+api.serializers|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\serializers.py
+api.services|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\services.py
+api.tests|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\tests.py
+api.urls|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\urls.py
+api.views|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\views.py
+manage|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\manage.py
+sistema_acceso.__init__|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\__init__.py
+sistema_acceso.asgi|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\asgi.py
+sistema_acceso.settings|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\settings.py
+sistema_acceso.urls|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\urls.py
+sistema_acceso.wsgi|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\wsgi.py

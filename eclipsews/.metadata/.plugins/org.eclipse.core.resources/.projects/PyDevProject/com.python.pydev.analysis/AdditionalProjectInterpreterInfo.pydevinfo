@@ -1,0 +1,153 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\eclipsews\.metadata\.plugins\org.eclipse.core.resources\.projects\PyDevProject\com.python.pydev.analysis\v2_indexcache
+sistema_acceso.asgi|1789986029656440300|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\asgi.py
+sistema_acceso.wsgi|1789986029683447500|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\wsgi.py
+api.serializers|1791458206826285000|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\serializers.py
+api.apps|1790074183650395900|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\apps.py
+api.migrations.__init__|1790074183684541100|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\migrations\__init__.py
+api.services|1791804595392790900|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\services.py
+manage|1789986029648437400|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\manage.py
+api.urls|1791457267346668300|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\urls.py
+api.__init__|1790074183682443200|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\__init__.py
+api.views|1791538635816817800|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\views.py
+sistema_acceso.__init__|1789986029684447900|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\__init__.py
+api.models|1791458279965793600|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\models.py
+sistema_acceso.settings|1793273657182780300|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\settings.py
+api.migrations.0001_initial|1790677274541066800|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\migrations\0001_initial.py
+api.tests|1791804718830868600|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\tests.py
+api.admin|1790677414338895900|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\admin.py
+sistema_acceso.urls|1790074350774292700|C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\urls.py
+-- END DISKCACHE
+-- START DICTIONARY
+61
+16=sistema_acceso.asgi
+37=Migration
+21=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\migrations\0001_initial.py
+6=api.views
+25=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\urls.py
+5=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\views.py
+17=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\wsgi.py
+30=Permission
+60=DeviceListCreateView
+11=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\settings.py
+53=UserDetailView
+61=PermissionListCreateView
+57=DoorDetailView
+56=DoorListCreateView
+18=sistema_acceso.wsgi
+8=api.serializers
+31=Device
+14=api.apps
+36=ApiConfig
+3=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\tests.py
+28=Card
+1=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\services.py
+7=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\serializers.py
+43=AccessLogSerializer.Meta
+45=CardSerializer
+35=AccessCheckTests
+47=PermissionSerializer
+23=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\urls.py
+50=UserListCreateView
+34=AccessCheckTests.setUp
+4=api.tests
+19=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\manage.py
+32=AccessLog
+27=User
+46=DoorSerializer
+44=UserSerializer
+48=DeviceSerializer
+2=api.services
+59=AccessLogDetailView
+26=api.urls
+13=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\apps.py
+40=DoorSerializer.Meta
+42=DeviceSerializer.Meta
+52=PermissionDetailView
+54=CardDetailView
+39=CardSerializer.Meta
+12=sistema_acceso.settings
+22=api.migrations.0001_initial
+41=PermissionSerializer.Meta
+24=sistema_acceso.urls
+51=CardListCreateView
+49=AccessLogSerializer
+55=DeviceDetailView
+38=UserSerializer.Meta
+29=Door
+20=manage
+33=AccessCheckSerializer
+15=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\sistema_acceso\asgi.py
+58=AccessLogListCreateView
+10=api.models
+9=C:\Users\hugom\OneDrive - UNIVERSIDAD DE SEVILLA\Escritorio\Universidad\TFG\SistemaAccesoNFC\api\models.py
+-- END DICTIONARY
+-- START TREE 1
+30
+_de|1|_deny!1^29#5*18@
+_re|1|_record_result!1^6#5*18@
+acc|7|AccessCheckTests!3^17#7*33@access_check!5^71#5*50@AccessLogDetailView!5^65#7*49@AccessLogListCreateView!5^61#7*49@AccessLogSerializer!7^30#7*65@AccessCheckSerializer!7^37#7*65@AccessLog!9^91#7*81@
+all|1|ALLOWED_HOSTS!11^32#1*99@
+api|1|ApiConfig!13^4#7*113@
+app|2|application!15^16#1*131@application!17^16#1*147@
+aut|1|AUTH_PASSWORD_VALIDATORS!11^105#1*99@
+bas|1|BASE_DIR!11^16#1*99@
+car|4|CardDetailView!5^31#7*49@CardSerializer!7^10#7*65@Card!9^21#7*81@CardListCreateView!5^26#7*49@
+che|1|check_access!1^39#5*18@
+dat|1|DATABASES!11^86#1*99@
+deb|1|DEBUG!11^26#1*99@
+def|1|DEFAULT_AUTO_FIELD!11^128#1*99@
+dev|4|Device!9^76#7*81@DeviceListCreateView!5^53#7*49@DeviceSerializer!7^25#7*65@DeviceDetailView!5^57#7*49@
+doo|4|DoorDetailView!5^40#7*49@DoorListCreateView!5^35#7*49@DoorSerializer!7^15#7*65@Door!9^34#7*81@
+ins|1|INSTALLED_APPS!11^46#1*99@
+lan|1|LANGUAGE_CODE!11^111#1*99@
+mai|1|main!19^7#5*162@
+mid|1|MIDDLEWARE!11^56#1*99@
+mig|1|Migration!21^7#7*177@
+per|4|Permission!9^43#7*81@PermissionDetailView!5^49#7*49@PermissionSerializer!7^20#7*65@PermissionListCreateView!5^44#7*49@
+roo|1|ROOT_URLCONF!11^58#1*99@
+sec|1|SECRET_KEY!11^23#1*99@
+sta|1|STATIC_URL!11^123#1*99@
+tem|1|TEMPLATES!11^73#1*99@
+tes|1|test_api!5^11#5*50@
+tim|1|TIME_ZONE!11^113#1*99@
+url|2|urlpatterns!23^24#1*195@urlpatterns!25^42#1*211@
+use|6|UserDetailView!5^22#7*49@USE_TZ!11^117#1*99@UserListCreateView!5^17#7*49@USE_I18N!11^115#1*99@UserSerializer!7^5#7*65@User!9^4#7*81@
+wsg|1|WSGI_APPLICATION!11^75#1*99@
+-- END TREE
+-- START TREE 2
+32
+__s|6|__str__!27&9^17#9*82@__str__!28&9^30#9*82@__str__!29&9^39#9*82@__str__!30&9^72#9*82@__str__!31&9^87#9*82@__str__!32&9^127#9*82@
+act|5|active!27&9^15#5*83@active!28&9^28#5*83@active!29&9^37#5*83@active!30&9^70#5*83@active!31&9^84#5*83@
+car|3|card!32&9^109#5*83@card_uid!33&7^38#5*67@card!34&3^32#9*35@
+cur|1|current_day!35&3^57#9*34@
+day|2|DAYS_OF_WEEK!30&9^52#5*83@day!30&9^66#5*83@
+def|1|default_auto_field!36&13^5#5*115@
+dep|1|dependencies!37&21^12#5*179@
+dev|3|device_id!31&9^78#5*83@device!34&3^45#9*35@device_id!33&7^39#5*67@
+doo|4|door!30&9^64#5*83@door!31&9^83#5*83@door!32&9^116#5*83@door!34&3^38#9*35@
+ema|1|email!27&9^13#5*83@
+end|1|end_time!30&9^68#5*83@
+fie|6|fields!38&7^8#9*67@fields!39&7^13#9*67@fields!40&7^18#9*67@fields!41&7^23#9*67@fields!42&7^28#9*67@fields!43&7^34#9*67@
+ini|1|initial!37&21^9#5*179@
+las|1|last_seen!31&9^85#5*83@
+loc|1|location!29&9^36#5*83@
+met|6|Meta!44&7^6#11*65@Meta!45&7^11#11*65@Meta!46&7^16#11*65@Meta!47&7^21#11*65@Meta!48&7^26#11*65@Meta!49&7^31#11*65@
+mod|6|model!38&7^7#9*67@model!39&7^12#9*67@model!40&7^17#9*67@model!41&7^22#9*67@model!42&7^27#9*67@model!43&7^32#9*67@
+nam|4|name!27&9^11#5*83@name!29&9^35#5*83@name!31&9^77#5*83@name!36&13^6#5*115@
+ope|1|operations!37&21^79#5*179@
+per|1|permission!34&3^54#9*35@
+que|12|queryset!50&5^18#5*51@queryset!51&5^27#5*51@queryset!52&5^50#5*51@queryset!53&5^23#5*51@queryset!54&5^32#5*51@queryset!55&5^58#5*51@queryset!56&5^36#5*51@queryset!57&5^41#5*51@queryset!58&5^62#5*51@queryset!59&5^66#5*51@queryset!60&5^54#5*51@queryset!61&5^45#5*51@
+rea|2|read_only_fields!43&7^35#9*67@reason!32&9^125#5*83@
+res|2|RESULT_CHOICES!32&9^95#5*83@result!32&9^123#5*83@
+rol|2|role!27&9^14#5*83@ROLE_CHOICES!27&9^9#5*83@
+ser|12|serializer_class!55&5^59#5*51@serializer_class!59&5^67#5*51@serializer_class!50&5^19#5*51@serializer_class!53&5^24#5*51@serializer_class!51&5^28#5*51@serializer_class!54&5^33#5*51@serializer_class!56&5^37#5*51@serializer_class!57&5^42#5*51@serializer_class!61&5^46#5*51@serializer_class!58&5^63#5*51@serializer_class!52&5^51#5*51@serializer_class!60&5^55#5*51@
+set|1|setUp!35&3^19#9*34@
+sta|1|start_time!30&9^67#5*83@
+sur|1|surname!27&9^12#5*83@
+tes|9|test_access_denied_without_permission!35&3^120#9*34@test_access_denied_for_inactive_device!35&3^135#9*34@test_unknown_card_is_logged!35&3^153#9*34@test_access_granted_with_valid_permission!35&3^61#9*34@test_access_denied_for_inactive_card!35&3^84#9*34@test_unknown_device_is_logged!35&3^169#9*34@test_access_denied_for_unknown_card!35&3^72#9*34@test_access_denied_for_inactive_door!35&3^108#9*34@test_access_denied_for_inactive_user!35&3^96#9*34@
+tim|1|timestamp!32&9^118#5*83@
+uid|1|uid!28&9^22#5*83@
+use|4|user!34&3^26#9*35@user!28&9^27#5*83@user!30&9^58#5*83@user!32&9^102#5*83@
+-- END TREE
